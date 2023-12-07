@@ -1,4 +1,5 @@
 import json
+from Book import Book
 
 class DataPersistence:
     def save_data(self, filename, data):
